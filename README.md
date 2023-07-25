@@ -18,7 +18,7 @@
 <div align="center">
   <h3>About Me</h3>
   <p>
-    I am a full-stack developer with a passion for creating amazing web applications. I love to learn and explore new technologies, and I am currently honing my skills in full stack development.
+    I am a full-stack developer with a passion for creating amazing software solutions to the real world problems. I love to learn and explore new technologies, skill and I am currently honing my skills in full stack development.
   </p>
 </div>
 
