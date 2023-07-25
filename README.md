@@ -18,7 +18,7 @@
 <div align="center">
   <h3>About Me</h3>
   <p>
-    I am a full-stack developer with a passion for creating amazing software solutions to the real world problems. I love to learn and explore new technologies, skill and I am currently honing my skills in full stack development.
+    I am a full-stack developer with a passion for creating amazing software solutions to the real world problems. I love to learn and explore new technologies, skills and I am currently honing my skills in full stack development.
   </p>
 </div>
 
@@ -86,4 +86,12 @@
 <!-- Coding GIF -->
 <div align="center">
   <img src="https://gist.githubusercontent.com/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif" alt="Coding GIF" />
+</div>
+</br>
+
+<!-- See ya...!!! -->
+<div align="center">
+  <p>
+    <h3>SEE YA...!!!👋</h3>
+  </p>
 </div>
