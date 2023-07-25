@@ -27,6 +27,7 @@
     🌱 Interning at <a href="https://www.kodnest.com/">Kodnest</a><br/>
     📚 Learning Full Stack Development<br/>
     👯 Looking to collaborate on exciting full stack projects
+    🎓 Mechanical Engineering Graduate
   </p>
 </div>
 
