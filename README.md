@@ -3,7 +3,9 @@
 
 <!-- Introduction -->
 <div align="center">
-  <h1>Hi, I'm Shanthraj Guthal.B 👋</h1>
+  <h1>🙋‍♂️Welcome Folks!!!<br/>
+    Well, I'm Shanthraj Guthal.B 
+  </h1>
   <h3>A Passionate Full Stack Developer from India</h3>
 </div>
 
@@ -24,10 +26,10 @@
 <div align="center">
   <h3>🔭 I'm Currently</h3>
   <p>
-    🌱 Interning at <a href="https://www.kodnest.com/">Kodnest</a><br/>
-    📚 Learning Full Stack Development<br/>
-    👯 Looking to collaborate on exciting full stack projects
-    🎓 Mechanical Engineering Graduate
+    🌱 Interning at <a href="https://www.kodnest.com/">Kodnest</a> 📝💼<br/>
+    📚 Learning Full Stack Development 👨‍💻💻<br/>
+    👯 Looking to collaborate on exciting full stack projects🖱️⌨️🖥️ <br/>
+    🎓 Mechanical Engineering Graduate ⚙️🛠️🔧
   </p>
 </div>
 
@@ -58,20 +60,20 @@
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <h3>GitHub Trophies</h3>
+  <h3>GitHub Trophies 🏆</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=shanthrajguthalb" alt="GitHub Trophies" />
 </div>
 
 <!-- GitHub Stats -->
 <div align="center">
-  <h3>GitHub Stats</h3>
+  <h3>GitHub Stats 📝</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shanthrajguthalb&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=shanthrajguthalb&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
 
 <!-- GitHub Streak -->
 <div align="center">
-  <h3>GitHub Streak</h3>
+  <h3>GitHub Streak 📶↗️</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanthrajguthalb" alt="GitHub Streak" />
 </div>
 
