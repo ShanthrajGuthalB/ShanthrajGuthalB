@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanthrajguthalb&label=Profile%20views&color=0e75b6&style=flat" alt="shanthrajguthalb" /> </p>
 
-- 🔭 I’m currently interns at [Kodnest](https://www.kodnest.com/)
+- 🔭 I’m currently full stack developer intern at [Kodnest](https://www.kodnest.com/)
 
 - 🌱 I’m currently learning **full stack development**
 
